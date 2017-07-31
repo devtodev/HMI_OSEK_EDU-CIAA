@@ -1,11 +1,5 @@
-# Room controller implemented on FreeOSEK and EDU-CIAA board
+# Human Machine Interface controller implemented on FreeOSEK and EDU-CIAA board
 
-Implemented for a restroom
+Implemented for UART USB, 115200
 
-Sensors:
-
-* Humidity, move, key1, key2
-
-Actions:
-
-* Lights ON/OFF, Fan ON/OFF
+For use this software I recommend Putty or change the UART to another and use one HC05 with Blueterm on Android
